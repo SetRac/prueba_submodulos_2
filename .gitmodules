@@ -1,0 +1,6 @@
+[submodule "hr-expense"]
+	path = hr-expense
+	url = https://github.com/OCA/hr-expense
+[submodule "mercadoLibre"]
+	path = mercadoLibre
+	url = https://github.com/ctmil/meli_oerp
